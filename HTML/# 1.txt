@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TITLE</title>
+</head>
+<body>
+<h1>HELLO WORLD</h1>
+<h2>HELLO WORLD</h2>
+<h3>HELLO WORLD</h3>
+<h4>HELLO WORLD</h4>
+<h5>HELLO WORLD</h5>
+<center><p><b>Lorem</b> ipsum dolor, sit amet consectetur adipisicing elit. Ipsa animi voluptate magnam fugiat rerum, ipsum unde numquam eveniet consectetur excepturi, vitae vel aliquid doloremque? Recusandae tempore nulla totam voluptatem quasi? <br>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque fugiat labore nostrum quaerat vero recusandae perferendis, rerum magnam voluptates perspiciatis eligendi explicabo aliquid quae, consequuntur vel deserunt officia blanditiis quia.</p></center>
+
+<ul>
+    <li>LEANE</li>
+    <li>JAY</li>
+    <li>NINA</li>
+    <li>SEAN</li>
+    <li>EJ?</li>
+</ul>
+
+<section id="PRODUCTS">
+    <h2 align="center">GAMEBONG</h2>
+    <h4 align="center"><em>Nintendo Switch Games</em></h4>
+        <table border="8">
+            <thead>
+                <tr>
+                    <th >GAME TITLE</th>
+                    <th >DESCRIPTION</th>
+                    <th>PRICE</th>
+                    <th>TEST</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td><img src="https://i.etsystatic.com/8383766/r/il/3657a5/545267707/il_794xN.545267707_myou.jpg" height="500" width="500"></td>
+                    <td>The critically acclaimed action-RPG series returns to the Nintendo Switch™!
+                        Set in the ninja-inspired land of Kamura Village, explore lush ecosystems and battle fearsome monsters to become the ultimate hunter. It’s been half a century since the last calamity struck, but a terrifying new monster has reared its head and threatens to plunge the land into chaos once again.</td>
+                    <td>&#8369; 1 500</td>
+                </tr>
+
+                <tr>
+                    <td><img src="https://www.nintendo.com//content/dam/noa/en_US/games/switch/p/pokemon-sword-switch/pokemon-sword-switch-hero.jpg" height="200" width="400"></td>
+                    <td>
+                        <p>A new generation of Pokémon is coming to the Nintendo Switch™ system. Begin your adventure as a Pokémon Trainer by choosing one of three new partner Pokémon: Grookey, Scorbunny, or Sobble. Then embark on a journey in the new Galar region, where you’ll challenge the troublemakers of Team Yell, while unraveling the mystery behind the Legendary Pokémon Zacian and Zamazenta!</p><br>
+                    <p>
+                    with purchased expansion
+                    <p>
+                    </td>
+                    <td>&#8369; 3 000</td>
+                </tr>
+
+                <tr>
+                    <td><img src="https://cdn.shopify.com/s/files/1/0355/8296/7943/products/Background_1_-2020-03-19T154513.352_42085c1f-d59a-4230-8d9c-3b1d0b813b90.jpg?v=1626777230" height="600" width="400"></td>
+                    <td><p>Introducing the first Pokémon title for the Nintendo Switch console. Take direct control of one of 21 prized Pokémon fighters to defeat other Pokémon in arena fights. Call upon Support Pokémon to assist in the fight, then unleash your Pokémon's unique Burst Attack to climb atop the ranks.</p></td>
+                    <td>&#8369; 1 500</td>
+                </tr>
+
+                <tfoot>
+                    <th colspan="4" ><em><strong>NOTE: All games above already have in game data.</em></strong>
+                </tfoot>
+            </tbody>
+        </table>
+</section>
+
+
+</body>
+</html>
